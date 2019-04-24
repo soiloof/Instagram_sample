@@ -1,0 +1,37 @@
+PODS:
+  - NCMB (2.4.3)
+  - NYXImagesKit (2.3)
+  - SVProgressHUD (2.2.5)
+  - "UITextView+Placeholder (1.2.0)"
+
+DEPENDENCIES:
+  - NCMB (from `https://github.com/NIFTYCloud-mbaas/ncmb_ios.git`, branch `develop`)
+  - NYXImagesKit
+  - SVProgressHUD
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NYXImagesKit
+    - SVProgressHUD
+    - "UITextView+Placeholder"
+
+EXTERNAL SOURCES:
+  NCMB:
+    :branch: develop
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: 4e5a13aff7787d78864c15cc65475f5997288aed
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  NCMB: 7b88a86be4a770bd260f42295c7649b00f57f178
+  NYXImagesKit: 8163e3335a40eaa173ca5bbbf81fafb57d3947eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  "UITextView+Placeholder": 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+
+PODFILE CHECKSUM: a4e84b42d608086f0aa4029c1035044aef5ad936
+
+COCOAPODS: 1.5.2

@@ -1,0 +1,6 @@
+framework module Pods_InstaSampleTests {
+  umbrella header "Pods-InstaSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
